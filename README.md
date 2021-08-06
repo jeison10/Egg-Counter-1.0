@@ -25,6 +25,8 @@ Librarys
 * streamVideoFlask (Flask)
 * time
 * openpyxl
+  
+  For the json file, you must install the lattest version of node-red and import it. To run it, you also need the dashboard and modbusTCP node installed.
 
 ##  Instalation guides <h2>
 
