@@ -17,14 +17,18 @@ All the information can also be read with an Modbus TCP client.
 ## Requirements and dependencies <h2>
 
 Librarys
-cv2
-sys
-Pyqt5
-numpy
-pyModbusTCP.server 
-streamVideoFlask (Flask)
-time
-openpyxl
+* cv2
+* sys
+* Pyqt5
+* numpy
+* pyModbusTCP.server 
+* streamVideoFlask (Flask)
+* time
+* openpyxl
 
+##  Instalation guides <h2>
 
-
+You must put all the files in the same folder. 
+You can compile the code using VS Studio or other.
+The excel file is necessary to start and save the variables of the system. It is also necessary to keep the egg counter during the day.
+The template folder must be in the same directory of the main code.
